@@ -6,3 +6,5 @@ Write hacktoberfest in your native language
 
 # Java
 ```System.out.println("Hacktoberfest")```
+#C
+```printf("Hacktoberfest")```
